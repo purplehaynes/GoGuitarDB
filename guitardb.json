@@ -1,0 +1,44 @@
+{
+	"Guitars": [
+		{
+			"Id": "e0b47cdd-23da-432a-95b7-811a9cb6e693",
+			"Brand": "PRS",
+			"Model": "Mark Holcomb Signature",
+			"Strings": 6,
+			"Body": "Mahagany",
+			"Neck": "Maple",
+			"Finish": "Quilted maple top, transparent black with purple burst",
+			"Scale": 0
+		},
+		{
+			"Id": "0900b44e-73d8-42ea-8b80-5db4c401da92",
+			"Brand": "PRS",
+			"Model": "SE Custom",
+			"Strings": 6,
+			"Body": "Mahogany",
+			"Neck": "Mahogany",
+			"Finish": "Flamed maple top, transparent grey",
+			"Scale": 0
+		},
+		{
+			"Id": "4108479a-6dfc-4d94-bfaa-3f4637d942b4",
+			"Brand": "Ibanez",
+			"Model": "Iron Label RGAIX6FM",
+			"Strings": 6,
+			"Body": "Mahogany",
+			"Neck": "3-piece maple/bubinga",
+			"Finish": "Transparent grey",
+			"Scale": 0
+		},
+		{
+			"Id": "81a09d89-66cf-4cc0-b97e-cf0b51c47fa5",
+			"Brand": "Fender",
+			"Model": "Telecaster",
+			"Strings": 6,
+			"Body": "Alder",
+			"Neck": "Maple",
+			"Finish": "Lake placid blue",
+			"Scale": 0
+		}
+	]
+}
