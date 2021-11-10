@@ -12,7 +12,7 @@ type Guitar struct {
 	Body 			string
 	Neck 			string
 	Finish 			string
-	Scale			int
+	Scale			float32
 }
 
 type GTStruct struct {

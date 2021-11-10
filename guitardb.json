@@ -8,7 +8,7 @@
 			"Body": "Mahagany",
 			"Neck": "Maple",
 			"Finish": "Quilted maple top, transparent black with purple burst",
-			"Scale": 0
+			"Scale": 25.5
 		},
 		{
 			"Id": "0900b44e-73d8-42ea-8b80-5db4c401da92",
@@ -18,7 +18,7 @@
 			"Body": "Mahogany",
 			"Neck": "Mahogany",
 			"Finish": "Flamed maple top, transparent grey",
-			"Scale": 0
+			"Scale": 25.0
 		},
 		{
 			"Id": "4108479a-6dfc-4d94-bfaa-3f4637d942b4",
@@ -28,7 +28,7 @@
 			"Body": "Mahogany",
 			"Neck": "3-piece maple/bubinga",
 			"Finish": "Transparent grey",
-			"Scale": 0
+			"Scale": 25.5
 		},
 		{
 			"Id": "81a09d89-66cf-4cc0-b97e-cf0b51c47fa5",
@@ -38,7 +38,7 @@
 			"Body": "Alder",
 			"Neck": "Maple",
 			"Finish": "Lake placid blue",
-			"Scale": 0
+			"Scale": 25.5
 		}
 	]
 }
